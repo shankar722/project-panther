@@ -1,0 +1,20 @@
+#root {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+
+.filter-dropdown {
+  fieldset {
+    border-color: #fff !important;
+  }
+  svg {
+    fill: #fff !important;
+  }
+  label {
+    color: #fff !important;
+  }
+}
